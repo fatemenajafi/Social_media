@@ -31,6 +31,7 @@ Also, I love NLP and crawling the web to create new datasets.
 - WB’s Doing Business Indicators
 - Economist Intelligence Unit data
 - uality of Government Indicators
+- [Statistics Canada](https://www.statcan.gc.ca/en/start)
 
 
 ### Preprocessing Steps
